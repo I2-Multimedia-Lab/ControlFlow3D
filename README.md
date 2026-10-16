@@ -2,6 +2,8 @@
 
 Official repository for **ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling**.
 
+**Paper:** [arXiv:2610.21190](https://arxiv.org/abs/2610.21190)
+
 > **Code coming soon.** The training and inference code will be released in this repository. Stay tuned!
 
 ## ShapeNetPU Dataset
@@ -16,6 +18,22 @@ ShapeNetPU is a ShapeNet-derived dataset for **point cloud upsampling**, coverin
 - **Evaluation geometry:** reference meshes for the test split.
 
 The [dataset card](https://huggingface.co/datasets/BaldFatTiger/ShapeNetPU#readme) provides the directory structure, category-level splits, download instructions, file-format details, and loading examples.
+
+## Citation
+
+If you find ControlFlow3D or ShapeNetPU useful in your research, please cite:
+
+```bibtex
+@misc{liu2026controlflow3ddistillingmultiviewknowledge,
+  title={ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling},
+  author={Yuang Liu and Zhi Zuo and Zhengkai Zhao and Lirui Zhang and Pan Gao and Hao Feng and Zhengzhe Liu},
+  year={2026},
+  eprint={2610.21190},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2610.21190},
+}
+```
 
 ## Terms of Use
 
