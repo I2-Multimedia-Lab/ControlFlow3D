@@ -24,7 +24,7 @@ The [dataset card](https://huggingface.co/datasets/BaldFatTiger/ShapeNetPU#readm
 If you find ControlFlow3D or ShapeNetPU useful in your research, please cite:
 
 ```bibtex
-@misc{liu2026controlflow3ddistillingmultiviewknowledge,
+@misc{liu2026controlflow3d,
   title={ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling},
   author={Yuang Liu and Zhi Zuo and Zhengkai Zhao and Lirui Zhang and Pan Gao and Hao Feng and Zhengzhe Liu},
   year={2026},
