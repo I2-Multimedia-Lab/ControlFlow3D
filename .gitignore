@@ -1,0 +1,64 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.env
+
+# ── CUDA extension build artifacts ────────────────────────────────────────────
+build/
+dist/
+*.so
+*.o
+*.ninja_deps
+*.ninja_log
+build.ninja
+install_extensions.log
+
+# ── IDE / OS ──────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ── Checkpoints & training outputs ────────────────────────────────────────────
+*.pth
+*.ckpt
+logs/
+logs_*/
+results/
+results_*/
+output/
+runs/
+events.out.tfevents.*
+
+# ── Datasets & caches ─────────────────────────────────────────────────────────
+/data/*
+!/data/README.md
+datasets/
+/weights/*
+!/weights/README.md
+/checkpoint/*
+!/checkpoint/README.md
+README_zh.md
+.controlflow3d_memmap/
+*.npy
+*.npz
+*.h5
+*.ply
+
+# External encoder checkouts are not part of the source release.
+/Utonia/
+/vggt/
+*.pt
+*.safetensors
+
+# Local installation downloads, point-cloud artifacts and logs.
+*.whl
+*.xyz
+*.log
+
+# Local regression checks.
+/tests/
