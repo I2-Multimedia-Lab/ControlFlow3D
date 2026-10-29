@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106" height="30" viewBox="0 0 106 30" role="img" aria-label="ShapeNetPU dataset on Hugging Face">
   <title>ShapeNetPU dataset on Hugging Face</title>
-  <rect width="106" height="30" rx="5" fill="#2B2B2B"/>
+  <rect width="106" height="30" rx="5" fill="#0F766E"/>
   <!-- Official Hugging Face artwork: https://huggingface.co/front/assets/huggingface_logo-noborder.svg -->
   <svg x="14.5" y="4" width="22" height="22" viewBox="0 0 95 88" fill="none">
     <path fill="#FFD21E" d="M47.21 76.5a34.75 34.75 0 1 0 0-69.5 34.75 34.75 0 0 0 0 69.5Z" />

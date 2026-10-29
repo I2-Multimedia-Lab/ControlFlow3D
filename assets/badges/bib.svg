@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106" height="30" viewBox="0 0 106 30" role="img" aria-label="BibTeX citation">
   <title>BibTeX citation</title>
-  <rect width="106" height="30" rx="5" fill="#7E57C2"/>
+  <rect width="106" height="30" rx="5" fill="#8966B3"/>
   <g transform="translate(30 6) scale(.75)"><path d="M5 3h9l5 5v13H5V3zm9 0v6h5M9 13h6m-6 4h6" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
   <text x="55" y="20" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Bib</text>
 </svg>
