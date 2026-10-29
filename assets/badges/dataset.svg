@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="106" height="30" viewBox="0 0 106 30" role="img" aria-label="ShapeNetPU dataset on Hugging Face">
   <title>ShapeNetPU dataset on Hugging Face</title>
-  <rect width="106" height="30" rx="5" fill="#0F766E"/>
+  <rect x="0.5" y="0.5" width="105" height="29" rx="4.5" fill="#FFFFFF" stroke="#78A99F"/>
   <!-- Official Hugging Face artwork: https://huggingface.co/front/assets/huggingface_logo-noborder.svg -->
   <svg x="14.5" y="4" width="22" height="22" viewBox="0 0 95 88" fill="none">
     <path fill="#FFD21E" d="M47.21 76.5a34.75 34.75 0 1 0 0-69.5 34.75 34.75 0 0 0 0 69.5Z" />
@@ -39,5 +39,5 @@
     d="M56.33 76.69c-2.75-4.04-2.56-7.07 1.22-10.84 3.77-3.77 5.97-9.3 5.97-9.3s.82-3.2 2.7-2.9c1.86.3 3.23 5.08-.68 8.01-3.92 2.93.78 4.92 2.28 2.17 1.51-2.75 5.63-9.82 7.76-11.18 2.13-1.35 3.64-.6 3.13 2.2-.5 2.79-9.42 9.55-8.55 11 .86 1.47 3.92-1.71 3.92-1.71s9.58-8.71 11.66-6.44c2.08 2.27-1.58 4.17-6.8 7.33-5.23 3.16-5.63 4-4.9 5.2.75 1.2 12.28-8.53 13.36-4.4 1.08 4.11-11.76 5.3-10.97 8.15.8 2.85 9.05-5.38 10.74-2.18 1.69 3.21-11.65 6.98-11.76 7.01-4.31 1.12-15.26 3.49-19.08-2.12Z"
     />
   </svg>
-  <text x="43.5" y="20" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Dataset</text>
+  <text x="43.5" y="20" fill="#39786E" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="600">Dataset</text>
 </svg>
